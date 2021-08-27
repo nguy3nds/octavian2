@@ -1,0 +1,24 @@
+.team-main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.team-content {
+  max-width: 370px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 100%;
+}
+
+.team-img {
+  max-width: 670px;
+  width: 100%;
+}
+/*# sourceMappingURL=team.css.map */
